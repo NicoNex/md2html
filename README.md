@@ -9,3 +9,4 @@ Or with specifying the output file
 ```
 md2html -o bar.html foo.md
 ```
+
