@@ -56,7 +56,7 @@ func wrapStyle(in string) string {
 </body>
 </html>
 `
-    return fmt.Sprintf(style, "sas a mike")
+    return fmt.Sprintf(style, in)
 }
 
 func main() {
